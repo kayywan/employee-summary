@@ -1,4 +1,4 @@
-# employee-summary
+# employee-summary w.i.p.
 Trying to develop an employee summary app with the use of classes, constructors, while using Jest to test if code is viable. 
 
 My mission:
